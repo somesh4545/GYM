@@ -1,5 +1,5 @@
 # GYM
-Easily manage your gym with this app. 
+Easily manage your gym with this app. This app helps you to track members, their dues, payment records, total collection, member expiry. You can access all the records any time and from anywhere.
 
 Features:
 <ul>
