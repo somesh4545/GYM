@@ -1,4 +1,4 @@
-# GYM
+# DIGI REGISTRY
 We have a management app which can help you grow your business ⬆️.
 <br/><br/>
 You can easily:
