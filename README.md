@@ -1,16 +1,31 @@
 # GYM
-Easily manage your gym with this app. This app helps you to track members, their dues, payment records, total collection, member expiry. You can access all the records any time and from anywhere.
+We have a management app which can help you grow your business ⬆️.
+<br/><br/>
+You can easily:
 
+👉 Add customers.
+
+👉 Keep their payment record. 
+
+👉 Send them payment due reminder in no time. 
+
+👉 Track all your collection. 
+
+
+<br/><br/>
 Features:
-<ul>
-  <li>Add members, add services and plans to them</li>
-  <li>Add services</li>
-  <li>Add plans</li>
-  <li>Monitor members plan expiry</li>
-  <li>Detailed collection report</li>
-   <li>Cost effective</li>
-</ul>
 
+🥇 Send payment reminder without worrying about calculations 
+
+🥈 Send bulk sms to your customers about plans and offers 
+
+🥉 Keep track about expiry of customer plans and collection reports .
+
+<br/><br/>
+<b>Get one month free trial 🎁</b>
+
+
+<br/><br/>
 <div style="display: flex; flex-direction:row">
   <img src="https://raw.githubusercontent.com/somesh4545/GYM/main/image1.jpeg" alt="Image 1" width="180"/>
   <img src="https://raw.githubusercontent.com/somesh4545/GYM/main/image2.jpeg" alt="Image 1" width="180"/>
