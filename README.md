@@ -32,4 +32,6 @@ Features:
   <img src="https://raw.githubusercontent.com/somesh4545/GYM/main/image3.jpeg" alt="Image 1" width="180"/>
   <img src="https://raw.githubusercontent.com/somesh4545/GYM/main/image4.jpeg" alt="Image 1" width="180"/>
   <img src="https://raw.githubusercontent.com/somesh4545/GYM/main/image5.jpeg" alt="Image 1" width="180"/>
+  <img src="https://raw.githubusercontent.com/somesh4545/GYM/main/image6.jpeg" alt="Image 1" width="180"/>
+  <img src="https://raw.githubusercontent.com/somesh4545/GYM/main/image7.jpeg" alt="Image 1" width="180"/>
 </div>
